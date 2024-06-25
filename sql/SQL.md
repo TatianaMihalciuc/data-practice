@@ -3,10 +3,6 @@ DB Schema:
 ![DB Schema](DbSchema.png "DB Schema")
 
 
-#### Task: Select all users from table
-```sql
-SELECT * FROM USERS
-```
 #### Task 1: Filter the accounts table to include the company name, website, and the primary point of contact (primary_poc) just for the Exxon Mobil company in the accounts table.
 ```sql
 SELECT name, website, primary_poc
