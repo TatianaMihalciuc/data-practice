@@ -13,11 +13,14 @@ This repository serves as a portfolio of my practice tasks and projects, showcas
 - **Spreadsheets**: Presenting complex data operations and visualizations using spreadsheet tools.
 
 
-## Courses
+## Udacity Courses
 
-### SQL Data Practise
+### SQL for Data Analysis
 [Solved SQL Queries](sql/SQL.md)
 
-### Nanodegree
+### Data Analyst Nanodegree Program
 
-[Practise tasks](nanodegree/Python.md)
+- [Exploring and Inspecting Data with Pandas and NumPy](nanodegree/Python_basics.md)
+- [Communicating Results](nanodegree/conclusions_and_visuals/conclusions_and_visuals.md)
+- [Drawing Conclusions](nanodegree/conclusions_quiz/conclusions_quiz.md)
+- [Exploring Data with Visuals](nanodegree/visuals_quiz/visuals_quiz.md)
