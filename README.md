@@ -24,3 +24,4 @@ This repository serves as a portfolio of my practice tasks and projects, showcas
 - [Communicating Results](nanodegree/conclusions_and_visuals/conclusions_and_visuals.md)
 - [Drawing Conclusions](nanodegree/conclusions_quiz/conclusions_quiz.md)
 - [Exploring Data with Visuals](nanodegree/visuals_quiz/visuals_quiz.md)
+- [PROJECT - GP No show appointments analysis](nanodegree/GP_no_show_appointment_analysis/Investigate_a_Dataset.md)
